@@ -1,0 +1,2 @@
+# PNG Fat
+PNG Fat is a command line script that uses PNG Crush to losslessly compress pngs on Windows. The resultant file sizes are much greater than can be achieved with lossy compression hence the Fat in the title. PNG Fat requires PNG Crush to be installed and its path added to your system environment path variables, on launching pngfat.cmd it will tell you if it can't find pngcrush.exe. The remaining usage is self explanatory, just run pngfat.cmd and it will tell you what to do.
